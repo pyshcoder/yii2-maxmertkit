@@ -1,0 +1,21 @@
+{
+    "name": "pyshcoder/yii2-maxmertkit",
+    "description": "This is MaxmertKit extension for Yii 2.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","maxmertkit","css","framework","design","maxmert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pyshcoder",
+            "email": "pyshcoder@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pyshcoder\\maxmertkit\\": ""
+        }
+    }
+}
